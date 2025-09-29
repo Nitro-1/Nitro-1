@@ -7,6 +7,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitro-1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<p align="left">
+<a href="https://twitter.com/tr38551283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tr38551283" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nishant-maule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishant-maule" height="30" width="40" /></a>
+<a href="https://instagram.com/nishant_maule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishant_maule" height="30" width="40" /></a>
+</p>
+
 <div align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" /></a>
   <img width="12" />
