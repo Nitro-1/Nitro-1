@@ -12,7 +12,7 @@
 </br>
 <p align="left">
 <a href="https://twitter.com/tr38551283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tr38551283" height="55" width="65" /></a>
-<a href="www.linkedin.com/in/nishant-maule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishant-maule" height="55" width="65" /></a>
+<a href="https://www.linkedin.com/in/nishant-maule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishant-maule" height="55" width="65" /></a>
 <a href="https://instagram.com/nishant_maule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishant_maule" height="55" width="65" /></a>
 </p>
 <br>
